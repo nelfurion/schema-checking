@@ -1,0 +1,7 @@
+columnCount: 3
+columnTypes:
+  index: java.lang.Integer
+  age: java.lang.Integer
+  name: java.lang.String
+
+xmlObjectNodeName: object
